@@ -1,0 +1,5 @@
+ROCK pebble 2
+ROCK rock 10
+ROCK stone 6
+ROCK conglomerate 15
+ROCK boulder 50
